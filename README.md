@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://gitlab.com/jeanchristophehenry/legalwork/-/raw/master/img/legalwork.png">
+  <img height="250" src="https://raw.githubusercontent.com/Leo-lios/legalwork/main/img/legalwork.png">
 </div>
 
 Version 1
@@ -12,16 +12,16 @@ Donation bitcoin
 ==============================
 
 <div align="center">
-  <img height="170" src="https://gitlab.com/jeanchristophehenry/legalwork/-/raw/master/img/bitcoin.png">
+  <img height="170" src="https://raw.githubusercontent.com/Leo-lios/legalwork/main/img/donation.png">
 </div>
 
-[Link bitcoin](https://greenaddress.it/pay/GA3VfLo5Cc6V9821kKhZY6z67scKb5/)
+Wallet BAT : 0x13CE1CB9E7626B0201c9DC786569fce22bd4fa78
 
 Guide d'utilisation du projet
 ==============================
 
 <div align="center">
-  <img height="170" src="https://gitlab.com/jeanchristophehenry/legalwork/-/raw/master/img/crosseplateform.png">
+  <img height="170" src="https://raw.githubusercontent.com/Leo-lios/legalwork/main/img/crosseplateform.png">
 </div>
 
 Avant l'utilisation du projet il faut mettre la dernière version de NODE et de NPM sur le terminal.
