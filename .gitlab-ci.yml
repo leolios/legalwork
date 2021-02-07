@@ -9,5 +9,6 @@ cache:
 all_tests:
   script:
 #    - npm i -g envinfo && envinfo
+    - npm i -g legalwork
     - npm install
     - npm test
