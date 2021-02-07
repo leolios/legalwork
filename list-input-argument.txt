@@ -1,0 +1,13 @@
+<%= domain %>
+<%= proprietaire %>
+<%= status %>
+<%= adresse %>
+<%= nomCreateur %>
+<%= partiesPrenante %>
+<%= urlCreateur %>
+<%= responsablePublication %>
+<%= emailResponsablePublication %>
+<%= nomWebmaster %>
+<%= emailTelephoneWebmaster %>
+<%= hebergeurSiteWeb %>
+<%= adresseHebergeurSiteWeb %>

@@ -1,0 +1,13 @@
+# Image utiliser comme base pour le CI
+image: node:13.7.0-alpine3.11
+
+# Utilisation d'un cache pour optimiser notre temps sur le CI
+cache:
+  paths:
+    - node_modules/
+
+all_tests:
+  script:
+#    - npm i -g envinfo && envinfo
+    - npm install
+    - npm test
