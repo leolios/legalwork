@@ -2,13 +2,13 @@
   <img height="250" src="https://raw.githubusercontent.com/Leo-lios/legalwork/main/img/legalwork.png">
 </div>
 
-Version 1
+Version 1.0.1
 =============================
 
 Cette version permet de générer des mentions légales classique, sans correction de texte, inspiré de la plupart des générateurs classique. Dans d'autres versions, il y aura un gros travail sur le fond avec plusieurs ajouts, notament plusieurs langues disponible.
 
 
-Donation bitcoin
+Donation crypto BAT
 ==============================
 
 <div align="center">
