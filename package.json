@@ -1,6 +1,6 @@
 {
-  "name": "legalwork",
-  "version": "1.0.1",
+  "name": "legalworks",
+  "version": "1.0.2",
   "description": "Générateur de mentions légales conforme GDPR. RGPD compliant legal notice generator | Node + Typescript",
   "bin": {
     "legalwork": "dist/bin.js"
